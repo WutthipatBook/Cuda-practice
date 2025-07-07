@@ -1,0 +1,21 @@
+# .gitignore for CUDA Visual Studio project
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.user
+*.log
+*.suo
+*.ipch
+*.cache
+*.VC.db
+*.VC.opendb
+.vs/
+Debug/
+Release/
+x64/
+*.sdf
+*.tlog/
+*.idb
+*.aps
+*.ncb
