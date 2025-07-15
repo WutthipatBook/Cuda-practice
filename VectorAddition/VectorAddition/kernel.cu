@@ -21,6 +21,7 @@ int main() {
         h_B[i] = i * 2;
     }
 
+    
     float *d_A, *d_B, *d_C;
     cudaMalloc(&d_A, size);
     cudaMalloc(&d_B, size);
